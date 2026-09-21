@@ -1,0 +1,22 @@
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.obsidian/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+.venv/
+
+# Logs
+*.log

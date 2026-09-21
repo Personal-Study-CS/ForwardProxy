@@ -1,0 +1,20 @@
+{
+  "name": "forward-proxy-toy",
+  "version": "1.0.0",
+  "description": "Forward Proxy Toy Project for learning concepts and implementation",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test:proxy": "bash test/test_proxy.sh",
+    "test:chrome": "bash test/test_chrome.sh"
+  },
+  "keywords": [
+    "forward-proxy",
+    "http-proxy",
+    "https-tunnel",
+    "connect-method",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT"
+}
